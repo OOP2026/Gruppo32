@@ -1,6 +1,6 @@
 package gui;
 
-public class GUIMain {
+public class Home {
 	public static void main(String[] args) {
 
 	}
